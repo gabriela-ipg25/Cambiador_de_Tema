@@ -1,4 +1,4 @@
-## Descripción
+Descripción
 Est tarea fue realizada utilizando React. La aplicación permite cambiar entre modo claro y modo oscuro mediante un botón, utilizando el hook useState.
 
 ## Tecnologías utilizadas
