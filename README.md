@@ -33,7 +33,7 @@ Su función es:
 6. Gracias a eso, se actualizan los estilos visuales de la aplicación.
 
 ## Decisiones de diseño
-- Elegí una interfaz simple para ir familiarizandome con los conceptos y facilitar la comprensión de lo que me estaban solicitando. Tiene un fondo, una tarjeta con un título, un texto y un boton cuyo código extraje de ejemplo de w3 school y edite el color en el css a un rosado.
+- Elegí una interfaz simple para ir familiarizandome con los conceptos y facilitar la comprensión de lo que me estaban solicitando. Tiene un fondo, una tarjeta con un título, un texto y un boton cuyo código extraje de ejemplo de w3 school y edite el color en el css a un rosado por gusto personal.
 -Use colores opuestos, el modo claro un fondo blanco y el oscuro en gris medio, fui probando en el css color por color con background
 - Se separó la tarjeta en un componente aparte para cumplir con la estructura de componentes pedida en la pauta.
 - Se utilizó CSS externo para mantener más ordenado el código y separar la lógica de la presentación, además de ser un requisito solicitado en la pauta.
