@@ -1,0 +1,29 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.claro {
+  background-color: #ffffff;
+  color: #222;
+}
+
+.oscuro {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: #e546a8;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
