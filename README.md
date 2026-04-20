@@ -1,17 +1,28 @@
-# React + Vite
+## Descripción
+Est tarea fue realizada utilizando React. La aplicación permite cambiar entre modo claro y modo oscuro mediante un botón, utilizando el hook useState.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologías utilizadas
+- React
+- JavaScript
+- CSS
 
-Currently, two official plugins are available:
+## Funcionalidades
+- Cambio entre modo claro y oscuro
+- Uso del hook useState
+- Manejo de eventos con onClick
+- Separación en componentes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Estructura del proyecto
+- App.jsx: componente principal
+- TarjetaTema.jsx: componente secundario
+- App.css: estilos de la aplicación
 
-## React Compiler
+## Cómo ejecutar el proyecto
+1. Instalar dependencias:
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+2. Ejecutar el proyecto:
+npm run dev
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Cambiador_de_Tema
+3. Abrir en el navegador:
+http://localhost:5173
